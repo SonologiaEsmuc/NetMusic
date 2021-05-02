@@ -1,0 +1,4 @@
+QuIN
+
+Version: 1.0
+Author: alex

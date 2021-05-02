@@ -1,0 +1,6 @@
+iolayout 2 2;
+code PdI2;
+type effect;
+compatibility 1.0.7;
+manufacturer BLO;
+

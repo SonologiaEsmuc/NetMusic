@@ -1,0 +1,4 @@
+quacktrip: simple jacktrip client
+
+Version: 0.1
+Author: msp and ffddcchh
