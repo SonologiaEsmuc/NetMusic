@@ -1,0 +1,7 @@
+type effect;
+iolayout 2 2;
+code zWry;
+description Infos.txt;
+compatibility 1.0.7;
+param -name autostart -min 0 -max 1 -steps 1
+manufacturer BLO;
